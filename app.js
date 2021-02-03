@@ -6,7 +6,6 @@ var bodyParser = require("body-parser");
 
 var mysql = require("mysql"); 
 
-
 //set view
 app.set("view engine", "ejs"); 
 //put connection forward
